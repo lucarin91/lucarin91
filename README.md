@@ -5,10 +5,9 @@ I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in 
 
 🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*.
 
-
 👯 My recent pullrequests are:
-- C++ Actor Framework [⚡](https://github.com/actor-framework/actor-framework/pull/980)
 - Starship cross-shell prompt [⚡](https://github.com/starship/starship/pull/1158) [⚡](https://github.com/starship/starship/pull/884) [⚡](https://github.com/starship/starship/pull/696) [⚡](https://github.com/starship/starship/pull/669)
+- C++ Actor Framework [⚡](https://github.com/actor-framework/actor-framework/pull/980)
 - ParaGroup repositories [⚡](https://github.com/ParaGroup/DAC/pull/1) [⚡](https://github.com/ParaGroup/p3arsec/pull/6) 
 - FastFlow [⚡](https://github.com/fastflow/fastflow/pull/34) [⚡](https://github.com/fastflow/fastflow/pull/32)
 - FogMon [⚡](https://github.com/di-unipi-socc/FogMon/pull/2)
@@ -34,6 +33,7 @@ Some of my last personal projects are:
 - ["From (Incomplete) TOSCA Specifications to Running Applications, with Docker"](https://doi.org/10.1007/978-3-319-74781-1_33) (2017) 
 - ["TosKer: Orchestrating Applications with TOSCA and Docker"](https://doi.org/10.1007/978-3-319-79090-9_9) (2017).
 
+📫 Reach me at `to(at)lucar.in`
 
 <!--
 **lucarin91/lucarin91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
