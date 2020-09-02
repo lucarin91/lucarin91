@@ -3,7 +3,7 @@
 I'm a last year Ph.D. student 🎓 in Parallel Programming Model.
 I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in C++/Rust and more.
 
-🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*.
+🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*. Bedide, my previus research projects was aboud Cloud Orchestration ([TosKer](https://github.com/di-unipi-socc/TosKer), [TosKeriser](https://github.com/di-unipi-socc/TosKeriser))
 
 👯 My recent pullrequests are:
 - Starship cross-shell prompt [⚡](https://github.com/starship/starship/pull/1158) [⚡](https://github.com/starship/starship/pull/884) [⚡](https://github.com/starship/starship/pull/696) [⚡](https://github.com/starship/starship/pull/669)
@@ -21,7 +21,7 @@ Some of my last personal projects are:
 - [golfscript-rs](https://github.com/lucarin91/golfscript-rs) a fork and extended version of a simple [Golfscript](http://www.golfscript.com/golfscript) interpreter
 
 
-📚 During my Ph.D. I pubished Paper on _Parallel Patterns_ and _Actor Model_, but also in _Microservice architecture_ and _Cloud management_:
+📚 During my Ph.D. I published Paper on _Parallel Patterns_ and _Actor Model_, but also in _Microservice architecture_ and _Cloud management_:
 - ["Improving the Performance of Actors on Multi-Cores with Parallel Patterns"](https://doi.org/10.1007/s10766-020-00663-1) (2020)
 - ["Accelerating Actor-Based Applications with Parallel Patterns"](https://doi.org/10.1109/EMPDP.2019.8671602) (2019)
 - ["Enforcing Reference Capability in FastFlow with Rust"](https://doi.org/10.3233/APC200064) (2019)
