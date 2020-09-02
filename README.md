@@ -33,7 +33,9 @@ Some of my last personal projects are:
 - ["From (Incomplete) TOSCA Specifications to Running Applications, with Docker"](https://doi.org/10.1007/978-3-319-74781-1_33) (2017) 
 - ["TosKer: Orchestrating Applications with TOSCA and Docker"](https://doi.org/10.1007/978-3-319-79090-9_9) (2017).
 
-📫 Reach me at `to(at)lucar.in`
+📫 Reach me at `to(at)lucar.in` 
+
+⬇️ [Download full CV](https://lucar.in/data/Luca_Rinaldi_CV.pdf)
 
 <!--
 **lucarin91/lucarin91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
