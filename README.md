@@ -3,7 +3,7 @@
 I'm a last year Ph.D. student 🎓 in Parallel Programming Model.
 I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in C++/Rust and more.
 
-🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*. Bedide, my previus research projects was aboud Cloud Orchestration ([TosKer](https://github.com/di-unipi-socc/TosKer), [TosKeriser](https://github.com/di-unipi-socc/TosKeriser))
+🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*. Beside, my previus research projects was aboud Cloud Orchestration ([TosKer](https://github.com/di-unipi-socc/TosKer), [TosKeriser](https://github.com/di-unipi-socc/TosKeriser))
 
 👯 My recent pullrequests are:
 - Starship cross-shell prompt [⚡](https://github.com/starship/starship/pull/1158) [⚡](https://github.com/starship/starship/pull/884) [⚡](https://github.com/starship/starship/pull/696) [⚡](https://github.com/starship/starship/pull/669)
