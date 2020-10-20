@@ -22,6 +22,7 @@ Some of my last personal projects are:
 
 
 📚 During my Ph.D. I published Paper on _Parallel Patterns_ and _Actor Model_, but also in _Microservice architecture_ and _Cloud management_:
+- "High-Throughput Stream Processing with Actors" (2020)
 - ["Improving the Performance of Actors on Multi-Cores with Parallel Patterns"](https://doi.org/10.1007/s10766-020-00663-1) (2020)
 - ["Accelerating Actor-Based Applications with Parallel Patterns"](https://doi.org/10.1109/EMPDP.2019.8671602) (2019)
 - ["Enforcing Reference Capability in FastFlow with Rust"](https://doi.org/10.3233/APC200064) (2019)
