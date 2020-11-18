@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a last year Ph.D. student 🎓 in Parallel Programming Model.
-I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in C++/Rust and more.
+<!--I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in C++/Rust and more.-->
 
 🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*. Beside, my previus research projects was aboud Cloud Orchestration ([TosKer](https://github.com/di-unipi-socc/TosKer), [TosKeriser](https://github.com/di-unipi-socc/TosKeriser))
 
