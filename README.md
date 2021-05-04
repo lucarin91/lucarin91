@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm a last year Ph.D. student 🎓 in Parallel Programming Model.
+I'm a Rust and Go developer working at [Develer](https://www.develer.com/en/).
+
+<!--I'm a last year Ph.D. student 🎓 in Parallel Programming Model.-->
 <!--I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in C++/Rust and more.-->
 
-🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*. Beside, my previus research projects was aboud Cloud Orchestration ([TosKer](https://github.com/di-unipi-socc/TosKer), [TosKeriser](https://github.com/di-unipi-socc/TosKeriser))
+<!--🔭 I’m currently working on my thesis project, [CAF-PP](https://github.com/ParaGroup/caf-pp) a *Parallel Pattern Library* for the [C++ Actor Framework](https://github.com/actor-framework/actor-framework) *Actor Model*. Beside, my previus research projects was aboud Cloud Orchestration ([TosKer](https://github.com/di-unipi-socc/TosKer), [TosKeriser](https://github.com/di-unipi-socc/TosKeriser))-->
 
 <!--👯 My recent pullrequests are:
 - Starship cross-shell prompt [⚡](https://github.com/starship/starship/pull/1158) [⚡](https://github.com/starship/starship/pull/884) [⚡](https://github.com/starship/starship/pull/696) [⚡](https://github.com/starship/starship/pull/669)
@@ -13,8 +15,8 @@ I'm a last year Ph.D. student 🎓 in Parallel Programming Model.
 - FogMon [⚡](https://github.com/di-unipi-socc/FogMon/pull/2)
 -->
 
-🌱 In my free time, I’m learning Unreal Engine (maybe someday I will program a videogame 😄), Rust, and Typescript.
-Some of my last personal projects are:
+<!--🌱 In my free time, I’m learning Unreal Engine (maybe someday I will program a videogame 😄), Rust, and Typescript.-->
+🌱 Some of my personal projects are:
 - [ff_buffer-rs](https://github.com/lucarin91/ff_buffer) a wrapper of the FastFlow lock-free queue for Rust 
 - [balanced-chunks-rs](https://github.com/lucarin91/balanced-chunks-rs) an injected method for splitting a vector in even sized chunks
 - [dmenu-react](https://github.com/lucarin91/dmenu-react) a dmenu-like navbar component written in React
@@ -36,7 +38,7 @@ Some of my last personal projects are:
 
 📫 Reach me at `to(at)lucar.in` 
 
-⬇️ [Download full CV](https://lucar.in/data/Luca_Rinaldi_CV.pdf)
+<!--⬇️ [Download full CV](https://lucar.in/data/Luca_Rinaldi_CV.pdf)-->
 
 <!--
 **lucarin91/lucarin91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
