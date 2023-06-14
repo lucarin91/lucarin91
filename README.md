@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Rust and Go developer working at [Develer](https://www.develer.com/en/).
+I'm a Rust and Go developer working at [Arduino](https://www.arduino.cc).
 
 <!--I'm a last year Ph.D. student 🎓 in Parallel Programming Model.-->
 <!--I'm ✨looking for a job✨ in Parallel Programming and Cloud infrastructure in C++/Rust and more.-->
